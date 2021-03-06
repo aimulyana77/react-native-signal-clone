@@ -5,6 +5,6 @@
 Building SIGNAL Close with React Native and Firebase
 
 # How to run this app
-    * Git Clone this repository
-    * npm install
-    * npm start
+* Git Clone this repository
+* npm install
+* npm start
